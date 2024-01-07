@@ -14,4 +14,8 @@
    - Create the products in Stripe and replace `COFFEE_PRODUCT_KEY`, `SUNGLASSES_PRODUCT_KEY` and `CAMERA_PRODUCT_KEY` with the product keys in lines 8, 13, 18 of the `my_app/src/productStore.js` file.
 2.  Run `npm install` command at the root folder.
 3.  Run `cd my-app` and run `npm install` commands.
-4.  At the `my-app` directory, run `npm start` command.
+5.  At the `my-app` directory, run `npm start` command.
+6.  At the root directory, run `npm start` command.
+
+**Credits**
+- https://www.youtube.com/watch?v=_8M-YVY76O8&ab_channel=TraversyMedia
